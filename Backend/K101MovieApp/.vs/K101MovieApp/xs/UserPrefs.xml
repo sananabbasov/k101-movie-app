@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{65CB8762-5A3F-410E-A2B0-1A29CBA95C6E}|https">
+  <MonoDevelop.Ide.ItemProperties.K101MovieApp.DataAccess FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.K101MovieApp.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="K101MovieApp.DataAccess/DataSeeding/Concrete/EfDataSeeder.cs">
+    <Files>
+      <File FileName="K101MovieApp.Business/Concrete/FilmManager.cs" Line="1" Column="1" />
+      <File FileName="K101MovieApp.Business/DependencyResolvers/OwnDependency/DependencyCreater.cs" Line="10" Column="3" />
+      <File FileName="K101MovieApp.Entities/Concrete/Film.cs" Line="6" Column="2" />
+      <File FileName="K101MovieApp.Entities/Concrete/FilmActor.cs" Line="1" Column="1" />
+      <File FileName="K101MovieApp.Entities/Concrete/Actor.cs" Line="6" Column="2" />
+      <File FileName="K101MovieApp.DataAccess/Concrete/EntityFramework/AppDbContext.cs" Line="17" Column="57" />
+      <File FileName="K101MovieApp.DataAccess/Concrete/EntityFramework/EfFilmDal.cs" Line="1" Column="1" />
+      <File FileName="K101MovieApp.DataAccess/DataSeeding/Abstract/IDataSeeder.cs" Line="6" Column="1" />
+      <File FileName="K101MovieApp.DataAccess/DataSeeding/Concrete/EfDataSeeder.cs" Line="38" Column="180" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="K101MovieApp" expanded="True">
+            <Node name="K101MovieApp.DataAccess">
+              <Node name="Concrete" expanded="True">
+                <Node name="EntityFramework" expanded="True" />
+              </Node>
+              <Node name="DataSeeding">
+                <Node name="Concrete">
+                  <Node name="EfDataSeeder.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="K101MovieApp.Entities" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

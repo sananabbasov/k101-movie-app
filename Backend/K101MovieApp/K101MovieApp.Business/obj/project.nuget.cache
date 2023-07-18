@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6akEAZxz8buMnvI6+Dp8XEH4EvfPEiEjWdXNgBXmLYM6SAAGvm3GvmdQz3z6NvHH6evlsYoc7mwtC03Enldzw==",
+  "success": true,
+  "projectFilePath": "/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/K101MovieApp.Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/sanan/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/bin/Debug/net7.0/K101MovieApp.Entities.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/bin/Debug/net7.0/K101MovieApp.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/bin/Debug/net7.0/K101MovieApp.Entities.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/bin/Debug/net7.0/K101MovieApp.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/bin/Debug/net7.0/K101MovieApp.Core.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/K101MovieApp.Entities.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/K101MovieApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/K101MovieApp.Entities.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/K101MovieApp.Entities.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/K101MovieApp.Entities.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/K101MovieApp.Entities.csproj.CopyComplete
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/K101MovieApp.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/refint/K101MovieApp.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/K101MovieApp.Entities.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Entities/obj/Debug/net7.0/ref/K101MovieApp.Entities.dll

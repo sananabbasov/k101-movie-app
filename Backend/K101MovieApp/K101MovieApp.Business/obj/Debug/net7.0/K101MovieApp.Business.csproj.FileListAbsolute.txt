@@ -1,0 +1,12 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/bin/Debug/net7.0/K101MovieApp.Business.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/bin/Debug/net7.0/K101MovieApp.Business.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/bin/Debug/net7.0/K101MovieApp.Business.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/obj/Debug/net7.0/K101MovieApp.Business.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/obj/Debug/net7.0/K101MovieApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/obj/Debug/net7.0/K101MovieApp.Business.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/obj/Debug/net7.0/K101MovieApp.Business.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/obj/Debug/net7.0/K101MovieApp.Business.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/obj/Debug/net7.0/K101MovieApp.Business.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/obj/Debug/net7.0/refint/K101MovieApp.Business.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/obj/Debug/net7.0/K101MovieApp.Business.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K101/Web/K101MovieApp/K101MovieApp.Business/obj/Debug/net7.0/ref/K101MovieApp.Business.dll

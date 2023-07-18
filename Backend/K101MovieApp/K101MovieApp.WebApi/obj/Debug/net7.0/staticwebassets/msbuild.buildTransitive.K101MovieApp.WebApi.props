@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/K101MovieApp.WebApi.props" />
+</Project>
